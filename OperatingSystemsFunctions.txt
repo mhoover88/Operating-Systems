@@ -2,3 +2,8 @@ One operating system function is to manage memory.
 Memory moves data back and forth from RAM and disk. 
 It tracks whenever any memory gets freed up.
 Memory management keeps track of every memory location.
+
+Another operating system function is monitoring performance.
+A user can monitor the processor, network, and memory.
+A performance monitor sends reports to the user to identify any problems.
+If your computer is running really slow, the performance monitor will show you your usage.
