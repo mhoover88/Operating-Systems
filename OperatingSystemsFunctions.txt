@@ -7,3 +7,8 @@ Another operating system function is monitoring performance.
 A user can monitor the processor, network, and memory.
 A performance monitor sends reports to the user to identify any problems.
 If your computer is running really slow, the performance monitor will show you your usage.
+
+A third function of an operating system is administering security.
+An owner of a computer or administrator has access to all files and programs.
+After the computer starts up, you must log in with a username and a password.
+Successful and unsuccessful attempts of logging in are stored in a file.
